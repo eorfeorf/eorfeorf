@@ -2,7 +2,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/eorfeorf/count.svg)
 
 
-Twitter：@_EorF
+Twitter：[@_EorF](https://twitter.com/_EorF)
 <!--
 **eorfeorf/eorfeorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
